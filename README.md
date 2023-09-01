@@ -15,5 +15,5 @@ Full responsivity and mobile UI
 Light / Dark mode
 Websocket fallback: Polling with alerts
 ORM using Prisma
-MySQL database using Planetscale
+Postgres database using Neon
 Authentication with Clerk
